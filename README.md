@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @george536
 - 👀 I’m interested in Back End Development, Artificial Intelligence, and Machine Learning
-- 🌱 I’m currently Unity
+- 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me georgeyazji3@gmail.com
 
