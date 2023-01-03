@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @george536
-- 👀 I’m interested in Back End Development, UI Design, Game Design, and Artificial Intelligence
+- 👀 I’m passionate in Game Design, Interested in Autonomous Vehicles, Experienced with Backend Development and UI Design.
 - 🌱 I’m currently learning Unreal Engine
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me georgeyazji3@gmail.com
