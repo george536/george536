@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @george536
-- 👀 I’m passionate in Game Design, Interested in Autonomous Vehicles, Experienced with Backend Development and UI Design.
-- 🌱 I’m currently learning Unreal Engine
+- 👀 I’m Interested in Autonomous Vehicles, passionate in Game Design, Experienced with Backend Development and UI Design.
+- 🌱 I’m currently working on training a self parking car model
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me georgeyazji3@gmail.com
 
