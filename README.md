@@ -1,25 +1,46 @@
 # George Yazji
 
-**Backend · Applied AI · Mobile**
+**Backend Software Engineer | C#/.NET · Python · SQL · Firebase**
 
-I&rsquo;m a software engineer at **SOTI** and co-founder of **Trac**. I build production systems that turn operational problems into reliable software&mdash;from offline-first enterprise workflows and backend services to mobile products, computer vision, and ML-powered transportation tools.
+I build production backend and real-time systems at **SOTI** and **Trac**. My work spans C#/.NET and Python services, SQL/database integrations, Firebase real-time data, reliability under poor connectivity, and applied ML.
 
-- **Enterprise engineering:** Android and C#/.NET capabilities supporting workflows across roughly 100,000 devices.
-- **Product leadership:** Trac is a profitable shuttle-tracking platform serving 2,500+ weekly active users across Android and iOS.
-- **Applied AI:** Arrival prediction, live-camera OCR, barcode recognition, computer vision, and autonomous-vehicle research.
+At SOTI, I own production feature delivery for Snap across backend/server and Android. I also co-founded Trac, where I work as **Lead Software Engineer (part-time)** on a shuttle-tracking platform used at McMaster University.
+
+## Impact
+
+- **~100,000 devices** running production SOTI Snap features.
+- **2,500+ weekly active users** on Trac across Flutter iOS and Android apps.
+- **5-second vehicle telemetry** updates through Trac's Firebase event pipeline.
+- **~30-second average prediction error** from Trac's deployed arrival model.
+
+## What I build
+
+- **Backend integrations:** SQL Server Windows Authentication through a Python backend, including error handling, Windows service restart logic, and automatic re-authentication.
+- **Production reliability:** On-device caching that persists failed third-party API requests and retries them when connectivity returns.
+- **Real-time systems:** Vehicle telemetry, session state, ETA/occupancy updates, stale-vehicle detection, authentication, and synchronization across clients.
+- **Applied ML and vision:** Python/scikit-learn multiple linear regression for arrival prediction and Google ML Kit OCR/barcode capture across Kotlin and C#/.NET.
 
 ## Core toolkit
 
-`C# / .NET` `Python` `TypeScript` `SQL` `Java` `Kotlin` `Flutter` `Firebase` `PyTorch` `OpenCV` `Google ML Kit` `CARLA`
+**Backend:** `C#/.NET` `Python` `SQL Server` `REST APIs` `Firebase` `Firestore` `Realtime Database` `Authentication`
+
+**Mobile:** `Kotlin` `Java` `Flutter` `Android`
+
+**AI / vision:** `scikit-learn` `PyTorch` `OpenCV` `Google ML Kit`
+
+**Systems / tools:** `Git` `CI/CD` `Linux` `CARLA`
 
 ## Selected work
 
-- **[Trac](https://georgeyazji.com/projects/Trac/)** &mdash; Real-time shuttle tracking, routing, GPS smoothing, arrival prediction, and cross-platform mobile apps.
-- **[RC Car Project](https://github.com/george536/RC-Car-Project)** &mdash; Coordinated autonomous RC vehicles using OpenCV, PID control, MQTT, and the Gipps car-following model.
-- **[Self-Parking Car](https://github.com/george536/Self-Parking-Car)** &mdash; Reinforcement-learning experiments for autonomous parking in CARLA.
-- **[Unreal Engine Splines and 3D Lines](https://github.com/george536/Splines-and-3D-lines-Library-for-Unreal-Engine-4)** &mdash; A reusable C++ library for spline meshes and 3D line tooling.
-- **[Boxing Robot](https://github.com/george536/Boxing-Robot)** &mdash; A Raspberry Pi training robot with servo control and a Python interface.
+- **[Trac](https://georgeyazji.com/projects/Trac/)** — Firebase backend and real-time event pipeline, 5-second vehicle telemetry, 2,500+ weekly active users, and a deployed regression arrival model. Separate Kalman filtering and A* algorithms handle GPS smoothing and routing-distance calculations. B2B operating partnership with Attridge Transportation.
+- **[Self-Parking Car](https://github.com/george536/Self-Parking-Car)** — C++ pipeline in CARLA generating and labeling 10,000+ bird's-eye-view training images, plus a ResNet-50 model in PyTorch for parking-space detection. The planned reinforcement-learning phase was not completed.
+- **[RC Car Project](https://github.com/george536/RC-Car-Project)** — OpenCV and PID path following improved from ~60% to 90–95%; Gipps car-following across 4 Raspberry Pi vehicles over MQTT with 5–10 cm following gaps.
+- **[Unreal Engine Splines and 3D Lines](https://github.com/george536/Splines-and-3D-lines-Library-for-Unreal-Engine-4)** — Reusable C++ utilities for spline meshes and 3D lines.
+
+## Earlier projects
+
+[Boxing Robot](https://georgeyazji.com/projects/boxingRobot/) · [MaConnect](https://georgeyazji.com/projects/MaConnect/) · [COVID-19 Screener — Highest Impact Award](https://georgeyazji.com/projects/covid19Screener/)
 
 ## Connect
 
-[Portfolio](https://georgeyazji.com/) · [LinkedIn](https://www.linkedin.com/in/george-yazji/) · [Email](mailto:georgeyazji3@gmail.com)
+[Portfolio](https://georgeyazji.com/) · [Résumé](https://georgeyazji.com/documents/george-yazji-resume.pdf) · [LinkedIn](https://www.linkedin.com/in/george-yazji/) · [Email](mailto:georgeyazji3@gmail.com)
